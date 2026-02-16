@@ -1,4 +1,4 @@
-****# MyTune — Event-Driven CLI Music Player
+# MyTune — Event-Driven CLI Music Player
 
 MyTune is a high-performance command-line music player built on an event-driven architecture with system-level process control.  
 It avoids busy-waiting entirely and relies on OS kernel event notification mechanisms to achieve low CPU usage and responsive interaction.
